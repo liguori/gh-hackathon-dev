@@ -1,4 +1,4 @@
-# Developers Hackathon 🧑‍💻👩‍💻
+# Developers Hackathon 👩‍💻👨🏾‍💻
 Welcome to the Developers Hackathon. The challenge is to develop a software described in the "Challenge" section using the most modern development tools:  GitHub Repos for code and GitHub Actions for automation, GitHub Codespaces as development environment and obtaining assistance from GitHub Copilot.
 
 ## Codespace Environment 💻
@@ -14,7 +14,7 @@ Welcome to the Developers Hackathon. The challenge is to develop a software desc
 3) Select the 8 core machine size 
 4) Start the Codespace and Happy coding 😊
 
-# Challenge 1: Retail Store App 🚀
+# Challenge 1: Retail Store App 🌐
 
 The main challenge is to develop an Application that allows a store operator to manage customer data, product data, and purchase orders. The application should be a WebApplication that stores data in an Azure SQL Database and is hosted on an Azure App Service. The application should be user-friendly and allow the store operator to view, update, and delete data as required.
 
@@ -40,13 +40,13 @@ Functional requirements for the Order Management System would include:
 NOTES:  
 Make sure the database structure is initialized by the app when it runs. When deployed a connection string named "DatabaseConnection" for access the final database will be exposed by the Operation teams as Connection String in the App Service and accesible trough an [environment variable](https://learn.microsoft.com/en-us/azure/app-service/configure-common?tabs=portal#configure-connection-strings). For local development you can create your own database by leveraging SQL Server configured within the Codespace.
 
-# Challenge 2: Application Testing 🚀
+# Challenge 2: Application Testing 🧪
 The application must have unit tests for the main functionalities.
 
 # Challenge 3: CI/CD 🚀
 The application must be build and deployed with GitHub Actions.
 
-# Challenge 4: Documentation 🚀
+# Challenge 4: Documentation 📝
 The application must have a DOCS.md file with a description of the application, a sequence diagram for the database schema and instructions on how to build, test, and deploy the application.
 
 # GitHub Copilot assistance 🤖
@@ -114,6 +114,3 @@ Given the hackathon challenges, try to ask to GitHub Copilot for help, following
 		</td>
 	</tr>
 </table>
-
-# Solution
-An example of solution implemented following the Hackathon instructions can be found in "/solution" folder of this repo. 
