@@ -1,4 +1,4 @@
-![image](https://github.com/Frank802/gh-hackathon-dev/assets/8238828/60a9a2a0-084f-42a4-9a05-2cfa0d2d8804)# Developers Hackathon 👩‍💻👨🏾‍💻
+# Developers Hackathon 👩‍💻👨🏾‍💻
 Welcome to the Developers Hackathon. The challenge is to develop a software described in the "Challenge" section using the most modern development tools:  GitHub Repos for code and GitHub Actions for automation, GitHub Codespaces as development environment and obtaining assistance from GitHub Copilot.
 
 ## Codespace Environment 💻
