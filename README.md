@@ -45,7 +45,7 @@ The application must have unit tests for the main functionalities.
 # Challenge 3: CI/CD 🚀
 The application must be build and deployed with GitHub Actions.
 
-💡To connect to Azure use the GitHub Action secret named AZURE_CREDENTIALS already configured for you.
+💡To connect to Azure use the GitHub Action secret named AZURE_CREDENTIALS already configured for you. Sync with the operation team for the target Azure resources.
 
 # Challenge 4: Documentation 📝
 The application must have a DOCS.md file with a description of the application, a sequence diagram for the database schema and instructions on how to build, test, and deploy the application.
