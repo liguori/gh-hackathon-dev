@@ -1,4 +1,4 @@
-# Developers Hackathon 👩‍💻👨🏾‍💻
+![image](https://github.com/Frank802/gh-hackathon-dev/assets/8238828/60a9a2a0-084f-42a4-9a05-2cfa0d2d8804)# Developers Hackathon 👩‍💻👨🏾‍💻
 Welcome to the Developers Hackathon. The challenge is to develop a software described in the "Challenge" section using the most modern development tools:  GitHub Repos for code and GitHub Actions for automation, GitHub Codespaces as development environment and obtaining assistance from GitHub Copilot.
 
 ## Codespace Environment 💻
@@ -37,14 +37,15 @@ Functional requirements for the Order Management System would include:
 5. Reporting:
    - The system should allow store operators to export data in various formats (e.g., PDF, Excel).
 
-NOTES:  
-Make sure the database structure is initialized by the app when it runs. When deployed a connection string named "DatabaseConnection" for access the final database will be exposed by the Operation teams as Connection String in the App Service and accesible trough an [environment variable](https://learn.microsoft.com/en-us/azure/app-service/configure-common?tabs=portal#configure-connection-strings). For local development you can create your own database by leveraging SQL Server configured within the Codespace.
+💡Make sure the database structure is initialized by the app when it runs. For the connection string use the name "DatabaseConnection". The same name will be used by the Operation teams for configure the Connection String in the App Service and accesible trough an [environment variable](https://learn.microsoft.com/en-us/azure/app-service/configure-common?tabs=portal#configure-connection-strings). For local development you can create your own database by leveraging SQL Server configured within the Codespace.
 
 # Challenge 2: Application Testing 🧪
 The application must have unit tests for the main functionalities.
 
 # Challenge 3: CI/CD 🚀
 The application must be build and deployed with GitHub Actions.
+
+💡To connect to Azure use the GitHub Action secret named AZURE_CREDENTIALS already configured for you.
 
 # Challenge 4: Documentation 📝
 The application must have a DOCS.md file with a description of the application, a sequence diagram for the database schema and instructions on how to build, test, and deploy the application.
