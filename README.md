@@ -115,3 +115,5 @@ Given the hackathon challenges, try to ask to GitHub Copilot for help, following
 		</td>
 	</tr>
 </table>
+
+💡Those are just some examples about how interact with Copilot, depending on how you decide to approach the challenges you will need to change the prompt accordingly or submit new ones.
