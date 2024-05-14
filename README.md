@@ -14,7 +14,7 @@ Welcome to the Developers Hackathon. The challenge is to develop a software desc
 3) Select the 8 core machine size 
 4) Start the Codespace and Happy coding 😊
 
-# Challenge 1: Retail Store App 🌐
+# Challenge 1: Acustic Device Retail Store App 🌐
 
 The main challenge is to develop an Application that allows a store operator to manage customer data, product data, and purchase orders. The application should be a WebApplication that stores data in an Azure SQL Database and is hosted on an Azure App Service. The application should be user-friendly and allow the store operator to view, update, and delete data as required.
 
