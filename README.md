@@ -87,7 +87,7 @@ Given the hackathon challenges, try to ask to GitHub Copilot for help, following
 	</tr>
 	<tr>
 		<td>Order Management: <br>
-		- The system should allow store operators to create new products with order number, customer and product. <br>
+		- The system should allow store operators to create a purchase order, with order number, customer and product. <br>
 		- The system should allow store operators to view, update, and delete purchase orders. <br>
 		- The system should allow store operators to search purchase orders based on various parameters like customer name and order number. <br>
 		</td>
