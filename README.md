@@ -68,7 +68,7 @@ Given the hackathon challenges, try to ask to GitHub Copilot for help, following
 		<td>
 		1. Generate a model named Customer with Id, Name, Surname, Address, BirthDate and Email <br>
 		2. Add NuGet packages for Entity Framework  <br>
-		3. Generate Razor Pages named Customers for Create, Read, Update, and Delete by using scaffold tool for model Customer  <br>
+		3. Generate Razor Pages for Create, Read, Update, and Delete by using scaffold tool for model Customer  <br>
 		4. Add EF Initial database schema  <br>
 		</td>
 	</tr>
@@ -80,7 +80,7 @@ Given the hackathon challenges, try to ask to GitHub Copilot for help, following
 		</td>
 		<td>
 		1. Generate a model named Product with Id, Name, Description and Price.<br>
-		2. Generate Razor Pages named Products for Create, Read, Update, and Delete by using scaffold tool for model Product <br>
+		2. Generate Razor Pages for Create, Read, Update, and Delete by using scaffold tool for model Product <br>
 		3. Add EF migration for Product <br>
 		4. Add search to Products page that allows to search by Id and Name <br>
 		</td>
@@ -93,7 +93,7 @@ Given the hackathon challenges, try to ask to GitHub Copilot for help, following
 		</td>
 		<td>
 		1. Generate a model named PurchaseOrder with Id, PurchaseDate, Customer and Products.<br>
-		2. Generate Razor Pages named PurchaseOrders for Create, Read, Update, and Delete by using scaffold tool for model PurchaseOrder <br>
+		2. Generate Razor Pages for Create, Read, Update, and Delete by using scaffold tool for model PurchaseOrder <br>
 		3. Add EF migration for PurchaseOrder <br>
 		4. Add search to PurchaseOrders page that allows to search by Id, PurchaseDate and Customer <br>
 		</td>
