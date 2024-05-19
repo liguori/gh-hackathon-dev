@@ -10,7 +10,7 @@ Welcome to the Developers Hackathon. The challenge is to develop a software desc
 
 ## Start the Hackathon 🏁
 1) Click on 'Code' -> 'Select Codespaces tab' -> 'New with options...' 
-2) Select the branch corresponding to your team (i.e. devTeam1)
+2) Select the branch corresponding to your team (i.e. team1)
 3) Select the 8 core machine size 
 4) Start the Codespace and Happy coding 😊
 
@@ -45,7 +45,9 @@ The application must have unit tests for the main functionalities.
 # Challenge 3: CI/CD 🚀
 The application must be build and deployed with GitHub Actions.
 
-💡To connect to Azure use the GitHub Action secret named AZURE_CREDENTIALS already configured for you. Sync with the operation team for the target Azure resources.
+💡To connect to Azure use the GitHub Action secret named AZURE_CREDENTIALS already configured for you. Sync with the operation team for the target Azure resources.  
+💡A skeleton of the GitHub Action has been created [.github/workflows/build-deploy-app.yml](other_file.md). Do not modify the trigger. Complete it with your code and make sure to launch it for your branch.
+
 
 # Challenge 4: Documentation 📝
 The application must have a DOCS.md file with a description of the application, a sequence diagram for the database schema and instructions on how to build, test, and deploy the application.
