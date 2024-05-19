@@ -37,7 +37,7 @@ Functional requirements for the Order Management System would include:
 5. Reporting:
    - The system should allow store operators to export data in various formats (e.g., PDF, Excel).
 
-💡Make sure the database structure is initialized by the app when it runs. For the connection string use the name "DatabaseConnection". The same name will be used by the Operation teams for configure the Connection String in the App Service and accessible trough an [environment variable](https://learn.microsoft.com/en-us/azure/app-service/configure-common?tabs=portal#configure-connection-strings). For local development you can create your own database by leveraging SQL Server configured within the Codespace.
+💡Make sure the database structure is initialized by the app when it runs. For the connection string use the name "DatabaseConnectionString". The same name will be used by the Operation teams for configure the Connection String in the App Service and accessible trough an [environment variable](https://learn.microsoft.com/en-us/azure/app-service/configure-common?tabs=portal#configure-connection-strings). For local development you can create your own database by leveraging SQL Server configured within the Codespace.
 
 # Challenge 2: Application Testing 🧪
 The application must have unit tests for the main functionalities.
