@@ -31,7 +31,7 @@ Functional requirements for the Order Management System would include:
    - The system should allow store operators to view, update, and delete products.
    - The system should allow store operators to search products based on various parameters like id and product name.
 4. Order Management:
-   - The system should allow store operators to create a purchase oreder, with order number, customer and product.
+   - The system should allow store operators to create a purchase order, with order number, customer and product.
    - The system should allow store operators to view, update, and delete purchase orders.
    - The system should allow store operators to search purchase orders based on various parameters like customer name and order number.
 5. Reporting:
