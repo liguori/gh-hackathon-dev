@@ -46,7 +46,7 @@ The application must have unit tests for the main functionalities.
 The application must be build and deployed with GitHub Actions.
 
 💡To connect to Azure use the GitHub Action secret named AZURE_CREDENTIALS already configured for you. Sync with the operation team for the target Azure resources.  
-💡A skeleton of the GitHub Action has been created [.github/workflows/build-deploy-app.yml](other_file.md). Do not modify the trigger. Complete it with your code and make sure to launch it for your branch.
+💡A skeleton of the GitHub Action has been created [.github/workflows/build-deploy-app.yml](.github/workflows/build-deploy-app.yml). Do not modify the trigger. Complete it with your code and make sure to launch it for your branch.
 
 
 # Challenge 4: Documentation 📝
