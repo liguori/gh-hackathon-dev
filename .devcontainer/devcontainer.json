@@ -33,7 +33,7 @@
 	"postAttachCommand":"mkdir -p ~/.sqlsecrets && echo \"{\\\"credentials\\\":[{\\\"credentialId\\\":\\\"Microsoft.SqlTools|itemtype:Profile|server:localhost|user:sa\\\",\\\"password\\\":\\\"P@ssw0rd\\\"}]}\" > ~/.sqlsecrets/sqlsecrets.json",
 	"remoteEnv": {
 		"ASPNETCORE_Kestrel__Certificates__Default__Password": "devcertpwd",
-		"ASPNETCORE_Kestrel__Certificates__Default__Path": "./devcertificate.pfx",
+		"ASPNETCORE_Kestrel__Certificates__Default__Path": "/workspaces/gh-hackathon-dev/devcertificate.pfx",
 		"ASPNETCORE_URLS": "http://*:5001,https://*:7001"
 	},
 	"portsAttributes": {
