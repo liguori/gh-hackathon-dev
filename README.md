@@ -113,7 +113,7 @@ Given the hackathon challenges, try to ask to GitHub Copilot for help, following
 		    GitHub Actions
 		</td>
 		<td>
-		1. Generate a GitHub Action that: build a .NET Application, deploys it in Azure App Service
+		1. Generate a GitHub Action that: build a .NET Application, deploys it in Azure App Service with Azure Credentials
 		</td>
 	</tr>
 </table>
